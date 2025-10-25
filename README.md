@@ -1,3 +1,3 @@
 # CursorHackathonNYUAD
-
+This product is a gamified budget tracker geared towards youth aged between 15 and 25. It uses mounatin climbing to represent the progress you've made and then categorizes you're spending to ensure you're spending your money wisely. Further, it encorparates many features like streaks, leaderboards, and points you get for keeping up with the product. It also allows you to customize how much you want to spend and other factors like what your disposable income is.
 This github was created during the 2025 Violet Ventures Cursor Startup Hackathon. Here is our project proposal:
